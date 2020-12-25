@@ -16,7 +16,4 @@ int main()
     }
     cout<<"Alis = "<<countA<<" Bobs = "<<countB<<endl;
 }
-int put(int a[], int b[])
-{
 
-}
